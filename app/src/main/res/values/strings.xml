@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RcordingDemo</string>
+    <string name="recorder_normal">按住 说话</string>
+    <string name="recorder_recording">松开 结束</string>
+    <string name="recorder_want_cancel">松开手指，取消发送</string>
+
+    <string name="dialog_recording">手指上滑 取消发送</string>
+    <string name="dialog_cancel">手指松开 取消发送</string>
+    <string name="dialog_too_short">录音时间过短!</string>
+</resources>
