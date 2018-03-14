@@ -1,5 +1,5 @@
 # RcordingDemo
-RcordingDemo
+RcordingDemo 只是音频的录制播放，并未实现音频的压缩转码，此Demo仅是学习过程中的一点记录。如有不对，请直接指出。qq：2624247674
 
 **按住说话功能**
 
