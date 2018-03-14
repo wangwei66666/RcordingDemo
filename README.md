@@ -1,11 +1,11 @@
 # RcordingDemo
 RcordingDemo
 
-###按住说话功能
+..按住说话功能..
 
 ![recorder.gif](https://upload-images.jianshu.io/upload_images/2194177-e6d3e4767e2773e1.gif?imageMogr2/auto-orient/strip)
 
-##参考资料：
+..参考资料：..
 
 [慕课网-Android-仿微信语音聊天](https://www.imooc.com/learn/383)
 
